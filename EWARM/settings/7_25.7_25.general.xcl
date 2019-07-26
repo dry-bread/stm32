@@ -1,0 +1,15 @@
+"D:\机器人\arm\bin\armproc.dll" 
+
+"D:\机器人\arm\bin\armjlink2.dll" 
+
+"C:\Users\李曼婷\Desktop\robocon\code\7_25\EWARM\7_25\Exe\7_25.out" 
+
+--plugin "D:\机器人\arm\bin\armbat.dll" 
+
+--device_macro "D:\机器人\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+--flash_loader "D:\机器人\arm\config\flashloader\ST\FlashSTM32F10xx8.board" 
+
+
+
+
